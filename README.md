@@ -1,4 +1,5 @@
 📊 Website Analytics & Conversion Rate Optimization
+
 📌 Project Overview
 
 This project simulates the role of a Web Analytics Consulting Team hired by ClickWave, an e-commerce company facing high traffic but low conversions. The objective is to analyze user behavior, funnel performance, and revenue generation using session-level data and recommend strategies to improve conversions.
